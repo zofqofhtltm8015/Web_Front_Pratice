@@ -1,0 +1,22 @@
+{
+
+    "boardList":[{
+        "id": 1,
+        "itemName": "태초에",
+        "itemContent": "종근이와 종근이 여친이 있었어요^^"
+    },
+    {
+        "id": 2,
+        "itemName": "원시시대에",
+        "itemContent": "원시인들이 우가우가"
+    },
+    {
+        "id": 3,
+        "itemName": "중세시대에",
+        "itemContent": "바이킹 족들이 우가우가"
+    },{
+        "id": 4,
+        "itemName": "현대시대에",
+        "itemContent": "종근이와 종근이 여친 아니, 잠만 종근아 너 여친 없잖아."
+    }]
+}

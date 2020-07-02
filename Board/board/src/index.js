@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import BoardList from './Pages/BoardList';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <BoardList />
+    </React.StrictMode>,
   document.getElementById('root')
 );
 
