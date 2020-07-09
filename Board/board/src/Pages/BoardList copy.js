@@ -24,8 +24,8 @@ function BoardList(){
     return(
         <>
             <div class="boardWrap">
-              
-              {boardList.data && boardList.data.map((Items)=> <S.itemList>
+                {boardList}
+                {/* {boardList && boardList.map((Items)=> <S.itemList>
                     <S.item>
                    번호 :  {Items.id}
                     </S.item>
@@ -34,7 +34,7 @@ function BoardList(){
                     제목 : {Items.title}
                     </S.item>
 
-                </S.itemList> )}              
+                </S.itemList> )}               */}
             </div>
         </>
     );
